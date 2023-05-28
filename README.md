@@ -2,8 +2,6 @@
 <p align='center'>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MoemenSalem.MoemenSalem)
-
 </p>
 <div size='20px'> Hi! My name is <strong>Moemen Salem</strong>.
 </div>
